@@ -10,6 +10,7 @@ class NewSimuladoScreen extends StatefulWidget {
 
   @override
   _NewSimuladoScreenState createState() => _NewSimuladoScreenState();
+  
 }
 
 class _NewSimuladoScreenState extends State<NewSimuladoScreen> {
